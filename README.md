@@ -41,27 +41,17 @@ Provide a brief overview of what the project does and how users can benefit from
 
 
 ![You have to enter your Internet Identity](screenshots/Screenshot1.png)
-
-
-
-
+</br>
+</br>
 ![Entering ](screenshots/Screenshot2.png)
-
-
-
-
+</br>
+</br>
 ![Then it will authenticate you](screenshots/Screenshot3.png)
-
-
-
-
-
+</br>
+</br>
 ![starting your session](screenshots/Screenshot4.png)
-
-
-
-
-
+</br>
+</br> 
 ![Open your Defi App](screenshots/Screenshot5.png)
 
 

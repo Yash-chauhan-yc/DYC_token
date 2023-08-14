@@ -40,11 +40,11 @@ Provide a brief overview of what the project does and how users can benefit from
 3. Explore the token claim, balance check, and transfer features.
 
 
-![Screenshot Title](screenshots/Screenshot (15).png)
-![Screenshot Title](screenshots/Screenshot (16).png)
-![Screenshot Title](screenshots/Screenshot (17).png)
-![Screenshot Title](screenshots/Screenshot (18).png)
-![Screenshot Title](screenshots/Screenshot (21).png)
+![Screenshot Title](screenshots/Screenshot1.png)
+![Screenshot Title](screenshots/Screenshot2.png)
+![Screenshot Title](screenshots/Screenshot3.png)
+![Screenshot Title](screenshots/Screenshot4.png)
+![Screenshot Title](screenshots/Screenshot5.png)
 
 
 ---

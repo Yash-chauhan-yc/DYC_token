@@ -1,18 +1,8 @@
 # Decentralized Token Project - DYC
 
-![Project Logo](path/to/your/logo.png) <!-- Include a logo or relevant image -->
 
 Welcome to the Decentralized Token Project - DYC repository! This project is designed to showcase the implementation of a decentralized token called "DYC" on the Internet Computer Protocol (ICP) blockchain platform. The token allows users to claim, manage, and transfer DYC tokens within a secure and decentralized ecosystem.
 
-## Table of Contents
-- [Features](#features)
-- [Functionalities](#functionalities)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Claim 10,000 free DYC tokens.
@@ -49,12 +39,8 @@ Provide a brief overview of what the project does and how users can benefit from
 2. Interact with the DYC token functionalities through the user interface.
 3. Explore the token claim, balance check, and transfer features.
 
-## Contributing
-We welcome contributions from the community! If you have suggestions, bug reports, or would like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the project and contribute to its development. If you have any questions, concerns, or feedback, please don't hesitate to [get in touch](mailto:your@email.com).
+Feel free to explore the project and contribute to its development. If you have any questions, concerns, or feedback, please don't hesitate to [get in touch](mailto:yash.chauhan.yc@outlook.com).
